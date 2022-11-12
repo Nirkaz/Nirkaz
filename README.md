@@ -8,4 +8,4 @@ Haven't anything to show off in terms of pet projects, really, but working on fi
 - 🔭 I’ve been working in Desktop-Development (C#, VB.NET, WinForms, DevExpress) ~2 years
 - 🌱 Currently learning Web-Development, Web APIs and ASP.NET
 - 🤔 I’m interested in .NET MAUI
-- ⚡ Overall, trying to grow as a Software Developer and make a world a better place to live.
+- ⚡ Overall, trying to grow as a Software Developer and make a world a better place to live
